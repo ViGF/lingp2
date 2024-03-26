@@ -1,0 +1,4 @@
+Classe pode ser entendido como a definição de uma objeto, ou seja um "molde", uma classe origina objetos.
+Objetos são representações do mundo real ou computacional.
+Possuem um conjunto de elementos e características que são relevantes para o programa.
+Objetos surgem a partir de uma classe
