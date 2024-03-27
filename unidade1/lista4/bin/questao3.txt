@@ -1,0 +1,16 @@
+Os objetos podem ter relações de:
+Um para um:
+  - Cada pessoa possui apenas uma identidade;
+  Neste exemplo um objeto Pessoa só pode possuir 1 identidade, assim,
+  uma identidade só pode pertencer à um objeto Pessoa.
+
+Um para muitos:
+  - Uma mãe pode ter vários filhos;
+  Um objeto Mãe pode possuir vários filhos em seu atributo, assim,
+  cada filho só pode pertencer à um objeto Mãe.
+
+Muitos para muitos:
+  - Cada professor pode ter vários alunos,
+  assim como cada aluno pode ter vários professores;
+  Um objeto Professor pode possuir vários alunos, assim,
+  um aluno pode pertencer à vários objetos Professor.

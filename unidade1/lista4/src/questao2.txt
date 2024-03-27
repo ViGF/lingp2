@@ -1,0 +1,4 @@
+A troca de mensagens entre objetos é a comunicação entre eles.
+Ou seja, um objeto aciona um método de outro, que por sua vez,
+de um outro e assim por diante. Essa troca pode ter por por finalidade mudança ou leitura do estado interno
+de um objeto e execução de comportamentos e tarefas entre as diferentes partes de um sistema.
