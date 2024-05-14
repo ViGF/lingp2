@@ -8,6 +8,10 @@ public class Pessoa {
     this.nome = nome;
   }
 
+  public Pessoa() {
+    //TODO Auto-generated constructor stub
+  }
+
   public String getNome() {
     return nome;
   }

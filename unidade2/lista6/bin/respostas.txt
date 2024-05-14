@@ -1,0 +1,4 @@
+#Questão 1:
+- Existem 2 tipos de polimorfismo, de sobreposição e sobrecarga.
+Na de sobreposição, a método da classe descendentes sobrepõe o método original sem modificar a assinatura do método. Já no de sobrecarga é possível se ter um método implementado várias vezes na mesma classe.
+Isso porque cada implementação difere no número e no tipo de parâmetros. 

@@ -8,6 +8,7 @@ public class App {
         Scanner scString = new Scanner(System.in);
         
         Pessoa[] pessoas = new Pessoa[3];
+        Pessoa p = new Pessoa();
 
         for (int i = 0; i < 3; i++) {
             Pessoa pessoa = new Pessoa();
